@@ -13,7 +13,7 @@ Se tiene en cuenta los siguientes requisitos:
 
 Todo esto se hace con un metodo que comprueba cada uno de los requisitos.
 
-<script src="https://gist.github.com/ElAdrixHD/45722fb063051d1096b7f760da5a3547.js"></script>
+https://gist.github.com/ElAdrixHD/45722fb063051d1096b7f760da5a3547
 
 Tambien se tiene en cuenta de que no se solapen las horas con otras reservas de otros usuarios.
 
